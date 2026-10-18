@@ -1,0 +1,8 @@
+{
+  "name": "رحلة التميز في التربية الإسلامية",
+  "description": "تطبيق تعليمي تفاعلي لطلاب وطالبات الصف السادس في دولة الكويت - مدرسة المطوعة شريفة العمر المتوسطة بنات",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
